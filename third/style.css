@@ -40,7 +40,7 @@
     text-align: center;
   }
   
-  .ratings-contaienr {
+  .ratings-container {
     display: flex;
     margin: 20px 0;
   }
@@ -89,3 +89,4 @@
     font-size: 3rem;
     margin-bottom: 10px;
   }
+
